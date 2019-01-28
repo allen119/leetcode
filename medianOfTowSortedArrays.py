@@ -1,6 +1,7 @@
 #leecode training camp.  #47 
 #https://leetcode-cn.com/problems/median-of-two-sorted-arrays/solution/   find the median fo two sorted arrays
-#bugs  when A = [1,2,2] B = [1,2,3]
+#idea from https://zhuanlan.zhihu.com/p/39129143 
+#bugs  when A = [1,2,2] B = [1,2,3], can't passs
 
 class Solution(object):
     """docstring for solution
